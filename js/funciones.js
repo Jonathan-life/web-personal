@@ -1,7 +1,7 @@
-const calcular = () => {
+function sumar(a, b) {
   return a + b;
-
 }
-const restar = (a, b) => {
+
+function restar(a, b) {
   return a - b;
 }
